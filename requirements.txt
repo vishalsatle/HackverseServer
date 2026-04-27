@@ -10,3 +10,4 @@ langchain
 langchain-groq
 typing-extensions
 httpx
+gunicorn
