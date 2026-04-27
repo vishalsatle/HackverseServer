@@ -1,0 +1,12 @@
+python-dotenv
+requests
+feedparser
+streamlit
+fastapi
+uvicorn
+pydantic
+crewai
+langchain
+langchain-groq
+typing-extensions
+httpx
